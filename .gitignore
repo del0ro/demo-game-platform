@@ -1,0 +1,37 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Env files
+.env
+
+# Poetry / builds
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Tests / coverage / type-checker caches
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Logs
+logs/
+
+# IDE / OS junk
+.vscode/
+.cursor/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
